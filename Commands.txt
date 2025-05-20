@@ -1,0 +1,8 @@
+1. Prerequisite: Install NodeJS for Javascript runtime environment.
+2. Create an intro directory where all our typescript code goes in: mkdir into
+3. Initialize the npm which will create a package.json file: npm init -y
+4. Create typescript dependency in package.json file: npm i typescript
+5. Create tsconfig.json file: npx tsc
+6. Initialise the src and lib directory using command: npx tsc --init --rootdir src --outdir lib
+7. Command to transpire the TS file to Javascript: npx tsc —watch 
+8. Command to run the TS file output script: node run <path of the JS>
