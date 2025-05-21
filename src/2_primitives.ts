@@ -6,4 +6,4 @@ let notDefined = undefined;
 let notPreset = null;
 
 let penta = Symbol('penta');
-let biggy = 66666666666666666666666666n;
+//let biggy = 66666666666666666666666666n;
