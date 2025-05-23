@@ -1,0 +1,26 @@
+Udemy tutorial: https://rakuten-india.udemy.com/course/typescript-for-beginners/learn/lecture/10482900#questions 
+
+Type script is a superset of Javascript. It can also be called as JS++
+First Plus  ——> Type safety
+Second Plus ——> Ease of use
+
+Type script will be transpiled (transcompiled) to Javascript using compiler TSC
+
+Installation of Typescript:
+1. Will be done through NPM (Node Package manager)
+2. For NPM, install NodeJS
+3. After installation of NPM and NodeJS, verify the installation using below command.
+4. node -v
+5. npm -v
+6. Install typescript using below NPM command: npm install -g typescript
+7. Verify typescript installation: tsc -v
+
+Variable types:
+Number
+String
+Boolean
+Any
+Enum 
+
+Custom:
+Classes and Interfaces
